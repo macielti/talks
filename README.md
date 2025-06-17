@@ -4,4 +4,4 @@ This repository contains slides and supporting materials from talks I've present
 
 Feel free to explore, reuse, or reach out if you have any questions or want to discuss any of the topics!
 
-All the slides use a template based on this project [clojurescript-tiny-slides](https://github.com/chr15m/clojurescript-tiny-slides).
+All the slides use the template based on this project [clojurescript-tiny-slides](https://github.com/chr15m/clojurescript-tiny-slides).
