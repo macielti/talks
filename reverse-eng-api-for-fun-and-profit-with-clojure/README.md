@@ -4,3 +4,6 @@
 
 ### Slide 0:
     Apresentação do Título do Slide.
+
+### Slide 1:
+    Explicação sobre como funciona o mercado secundário.
