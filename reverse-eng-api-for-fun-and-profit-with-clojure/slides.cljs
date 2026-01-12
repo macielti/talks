@@ -63,14 +63,17 @@
          [:img {:src "images/secondary_market_moths_to_release_by_yield.png"}]]
 
         [:section
-         [:h1 "Análise de Rentabilidade por Prazo de Vencimento - Prefixado"]
-         [:img {:src "images/secondary_market_moths_to_release_by_yield.png"}]]
-
-        [:section
          [:h1 "Dito isso..."]
          [:ul
           [:li "Conseguimos encontrar no Mercado Secundário de CDBs ativos com taxas de rendimento acima da média do mercado."]
           [:li "Poucos ativos disponíveis, oportunidades se esgotam em segundos."]]]
+
+        ; A barreira principal para acesso às oportunidades mais rentáveis do mercado secundário de CDBs é a velocidade com que eles se esgotam.
+
+        [:section
+         [:h1 "Solução"]
+         [:img {:src "images/bot_illustration.png"}]]
+
         ]])
 
 ; *** implementation details *** ;
