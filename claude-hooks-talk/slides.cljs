@@ -110,10 +110,11 @@ estou trabalhando.\""]]]
          [:h1 "Resultado"]
          [:ul
           [:li "Você manda o Claude trabalhar"]
-          [:li "Vai fazer outra task"]
-          [:li "O celular vibra"]
+          [:li "Ir fazer outra coisa (Colocar o cérebro em modo difuso, ou dar atenção a outras tarefas)"]
+          [:li "O claude the notifica, quando ele terminar ou quando precisar de você"]
           [:li "Você volta"]]
-         [:p "Sem ficar olhando pra tela."]]
+         [:p "Sem ficar olhando pra tela."]
+         [:h1 "Creativity on steroids"]]
 
         [:section
          [:h1 "Outros casos de uso"]
