@@ -19,10 +19,28 @@
          [:p "...e fica olhando pra tela esperando."]]
 
         [:section
+         [:h1 "Modo focado vs. modo difuso"]
+         [:p "Ficar olhando pro Claude pode estar te prejudicando."]
+         [:ul
+          [:li [:strong "Modo focado"] ": concentração direta num problema — você está travado nele"]
+          ; Nesse modo o cérebro é como um feixe de laser, focado numa coisa só. Ótimo para tarefas diretas,
+          ; mas não para criatividade, ele foca em um único caminho de pensamento, e se esse caminho não levar a uma solução, você fica preso.
+          ; Um exemplo mais clássico é quando deixamos passar um erro de digitação no código, e o cérebro fica preso
+          ; tentando entender o que o código faz, sem perceber que o problema é um erro de digitação.
+          [:li [:strong "Modo difuso"] ": pensamento relaxado — o cérebro conecta ideias livremente"]]
+         ; Nesse modo o cérebro é como um céu estrelado, onde as ideias estão conectadas de forma mais livre,
+         ; e isso é ótimo para criatividade, porque permite que o cérebro encontre conexões inesperadas entre ideias.
+         ; Um exemplo clássico é quando estamos tomando banho ou fazendo uma caminhada, e de repente temos uma ideia brilhante,
+         ; porque o cérebro está relaxado e conectando ideias de forma mais livre.
+         [:p "Quando você se desconecta, seu cérebro trabalha em modo difuso."]
+         [:p "É aí que surgem as melhores ideias."]
+         [:footer [:small "Conceito do curso " [:em "Learning How to Learn"] " — Barbara Oakley (Coursera)"]]]
+
+        [:section
          [:h1 "Sonho de Princesa"]
          [:ul
           [:li "Mandar o Claude trabalhar"]
-          [:li "Ir fazer outra coisa"]
+          [:li "Ir fazer outra coisa (Colocar o cérebro em modo difuso, ou dar atenção a outras tarefas)"]
           [:li "Ser avisado quando ele terminar"]
           [:li "Ser avisado quando ele precisar de você"]]]
 
@@ -77,6 +95,16 @@
     }]
   }
 }"]]]
+
+        [:section
+         [:h1 "Ou simplesmente..."]
+         [:p "Peça pro Claude configurar pra você"]
+         [:blockquote
+          [:p "\"Adicione hooks no meu ~/.claude/settings.json para me
+notificar via ntfy.sh no canal 'meu-canal' quando o Claude
+terminar uma tarefa e quando precisar de input meu. Use
+mensagens genéricas para não vazar informações sobre o que
+estou trabalhando.\""]]]
 
         [:section
          [:h1 "Resultado"]
