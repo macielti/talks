@@ -122,13 +122,6 @@ estou trabalhando.\""]]]
           [:li "Bloquear comandos perigosos com " [:code "PreToolUse"]]
           [:li "Lint após edições de arquivo"]
           [:li "Rodar testes automaticamente após mudanças"]]]
-
-        [:section
-         [:h1 "Resumo"]
-         [:p "Hooks = você e o Claude trabalhando em paralelo."]
-         [:p "Configure uma vez. Funciona sempre."]
-         [:p [:strong "Sem babá."]]]
-
         ]])
 
 ; *** implementation details *** ;
